@@ -1,0 +1,33 @@
+body{
+    background-color: skyblue;
+    text-align: center;
+    font-family: "Calibri";
+}
+.guess{
+    border: 5px solid gold;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    background-color: darkblue;
+    color: white;
+}
+.btn{
+    align-content: center;
+}
+.btn1{
+    color: gold;
+    background-color: black;
+    padding: 5px;
+}
+.btn2{
+    background-color: black;
+    color: gold;
+    padding: 5px;
+}
+h1{
+    font-family: "Arial";
+    font-weight: bold;
+    color: blue;
+}
+.txt{
+    color: blue;
+}
